@@ -11,5 +11,5 @@ Lisa's NLP projects
 - Tech stack: foundation models (OpenAI GPT, Replicate LLaMA 3); Python (pandas, pytorch, numpy); Huggingface
 
 ### Ongoing project: GCP Gemini model test fine-tune training
-- October 2024
+- September 2024
 - Tech stack: Vertex AI
