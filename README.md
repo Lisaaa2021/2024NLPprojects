@@ -14,6 +14,6 @@ Lisa's NLP projects
 - Aug 2024
 - Tech stack: RAG, huggingface embedding models, LLaMA 3 API calling
 
-### Ongoing project: GCP Gemini model test fine-tune training
+### Notebook 4: GCP Gemini model test fine-tune training
 - September 2024
 - Tech stack: Vertex AI
